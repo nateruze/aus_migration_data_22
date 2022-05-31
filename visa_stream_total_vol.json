@@ -1,0 +1,302 @@
+[
+ {
+   "Year": 2012,
+   "Volume": 46554,
+   "Type": "Employer Sponsored"
+ },
+ {
+   "Year": 2012,
+   "Volume": 37772,
+   "Type": "Skilled Independent"
+ },
+ {
+   "Year": 2012,
+   "Volume": 22247,
+   "Type": "State/territory Nominated"
+ },
+ {
+   "Year": 2012,
+   "Volume": 0,
+   "Type": "Global Talent"
+ },
+ {
+   "Year": 2012,
+   "Volume": 0,
+   "Type": "Regional"
+ },
+ {
+   "Year": 2012,
+   "Volume": 11800,
+   "Type": "Skilled Regional"
+ },
+ {
+   "Year": 2013,
+   "Volume": 47740,
+   "Type": "Employer Sponsored"
+ },
+ {
+   "Year": 2013,
+   "Volume": 44251,
+   "Type": "Skilled Independent"
+ },
+ {
+   "Year": 2013,
+   "Volume": 21637,
+   "Type": "State/territory Nominated"
+ },
+ {
+   "Year": 2013,
+   "Volume": 0,
+   "Type": "Global Talent"
+ },
+ {
+   "Year": 2013,
+   "Volume": 0,
+   "Type": "Regional"
+ },
+ {
+   "Year": 2013,
+   "Volume": 8132,
+   "Type": "Skilled Regional"
+ },
+ {
+   "Year": 2014,
+   "Volume": 47450,
+   "Type": "Employer Sponsored"
+ },
+ {
+   "Year": 2014,
+   "Volume": 44984,
+   "Type": "Skilled Independent"
+ },
+ {
+   "Year": 2014,
+   "Volume": 24656,
+   "Type": "State/territory Nominated"
+ },
+ {
+   "Year": 2014,
+   "Volume": 0,
+   "Type": "Global Talent"
+ },
+ {
+   "Year": 2014,
+   "Volume": 0,
+   "Type": "Regional"
+ },
+ {
+   "Year": 2014,
+   "Volume": 5100,
+   "Type": "Skilled Regional"
+ },
+ {
+   "Year": 2015,
+   "Volume": 48250,
+   "Type": "Employer Sponsored"
+ },
+ {
+   "Year": 2015,
+   "Volume": 43990,
+   "Type": "Skilled Independent"
+ },
+ {
+   "Year": 2015,
+   "Volume": 26050,
+   "Type": "State/territory Nominated"
+ },
+ {
+   "Year": 2015,
+   "Volume": 0,
+   "Type": "Global Talent"
+ },
+ {
+   "Year": 2015,
+   "Volume": 0,
+   "Type": "Regional"
+ },
+ {
+   "Year": 2015,
+   "Volume": 2800,
+   "Type": "Skilled Regional"
+ },
+ {
+   "Year": 2016,
+   "Volume": 48250,
+   "Type": "Employer Sponsored"
+ },
+ {
+   "Year": 2016,
+   "Volume": 43994,
+   "Type": "Skilled Independent"
+ },
+ {
+   "Year": 2016,
+   "Volume": 24650,
+   "Type": "State/territory Nominated"
+ },
+ {
+   "Year": 2016,
+   "Volume": 0,
+   "Type": "Global Talent"
+ },
+ {
+   "Year": 2016,
+   "Volume": 0,
+   "Type": "Regional"
+ },
+ {
+   "Year": 2016,
+   "Volume": 4196,
+   "Type": "Skilled Regional"
+ },
+ {
+   "Year": 2017,
+   "Volume": 48250,
+   "Type": "Employer Sponsored"
+ },
+ {
+   "Year": 2017,
+   "Volume": 42422,
+   "Type": "Skilled Independent"
+ },
+ {
+   "Year": 2017,
+   "Volume": 23765,
+   "Type": "State/territory Nominated"
+ },
+ {
+   "Year": 2017,
+   "Volume": 0,
+   "Type": "Global Talent"
+ },
+ {
+   "Year": 2017,
+   "Volume": 0,
+   "Type": "Regional"
+ },
+ {
+   "Year": 2017,
+   "Volume": 1670,
+   "Type": "Skilled Regional"
+ },
+ {
+   "Year": 2018,
+   "Volume": 35528,
+   "Type": "Employer Sponsored"
+ },
+ {
+   "Year": 2018,
+   "Volume": 39137,
+   "Type": "Skilled Independent"
+ },
+ {
+   "Year": 2018,
+   "Volume": 27400,
+   "Type": "State/territory Nominated"
+ },
+ {
+   "Year": 2018,
+   "Volume": 0,
+   "Type": "Global Talent"
+ },
+ {
+   "Year": 2018,
+   "Volume": 0,
+   "Type": "Regional"
+ },
+ {
+   "Year": 2018,
+   "Volume": 1574,
+   "Type": "Skilled Regional"
+ },
+ {
+   "Year": 2019,
+   "Volume": 42012,
+   "Type": "Employer Sponsored"
+ },
+ {
+   "Year": 2019,
+   "Volume": 34247,
+   "Type": "Skilled Independent"
+ },
+ {
+   "Year": 2019,
+   "Volume": 25346,
+   "Type": "State/territory Nominated"
+ },
+ {
+   "Year": 2019,
+   "Volume": 0,
+   "Type": "Global Talent"
+ },
+ {
+   "Year": 2019,
+   "Volume": 0,
+   "Type": "Regional"
+ },
+ {
+   "Year": 2019,
+   "Volume": 647,
+   "Type": "Skilled Regional"
+ },
+ {
+   "Year": 2020,
+   "Volume": 29261,
+   "Type": "Employer Sponsored"
+ },
+ {
+   "Year": 2020,
+   "Volume": 12986,
+   "Type": "Skilled Independent"
+ },
+ {
+   "Year": 2020,
+   "Volume": 21495,
+   "Type": "State/territory Nominated"
+ },
+ {
+   "Year": 2020,
+   "Volume": 4109,
+   "Type": "Global Talent"
+ },
+ {
+   "Year": 2020,
+   "Volume": 23372,
+   "Type": "Regional"
+ },
+ {
+   "Year": 2020,
+   "Volume": 0,
+   "Type": "Skilled Regional"
+ },
+ {
+   "Year": 2021,
+   "Volume": 23503,
+   "Type": "Employer Sponsored"
+ },
+ {
+   "Year": 2021,
+   "Volume": 7213,
+   "Type": "Skilled Independent"
+ },
+ {
+   "Year": 2021,
+   "Volume": 14268,
+   "Type": "State/territory Nominated"
+ },
+ {
+   "Year": 2021,
+   "Volume": 9584,
+   "Type": "Global Talent"
+ },
+ {
+   "Year": 2021,
+   "Volume": 13585,
+   "Type": "Regional"
+ },
+ {
+   "Year": 2021,
+   "Volume": 0,
+   "Type": "Skilled Regional"
+ }
+]
